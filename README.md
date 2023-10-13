@@ -6,3 +6,8 @@ Dragonframe
 
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Dragonframe&logoColor=white">
+<img src="https://img.shields.io/badge/View%20on-GitHub-blue?style=flat-square&logo=github&logoColor=white&logoWidth=40"/>
