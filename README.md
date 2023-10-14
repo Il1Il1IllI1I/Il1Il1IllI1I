@@ -1,62 +1,58 @@
-# 👨‍💻 안녕하세요, 저는 [당신의 이름]입니다! 👋 
+# 👋 Hello, World!
 
-🚀 15년 간의 소프트웨어 엔지니어링 경험! 🚀
+🌱 I'm a budding Data Scientist who embarked on this fascinating journey in July 2023. Driven by curiosity and the thrill of uncovering insights from raw data, I'm passionate about turning data into actionable knowledge.
 
-🛠 **사용 기술:** Python, Java, Django, Spring, MySQL, Docker
+## 🛠 My Toolbox
 
-🔗 [링크드인 프로필](https://www.linkedin.com/in/yourusername/)
+- Primary Language: Python 🐍
+- Interests: Stock Backtesting 📈, Machine Learning 🤖, Data Visualization 📊
 
-![Commit Badge](https://badgen.net/github/commits/Il1Il1IllI1I/reponame/master?icon=github)
-![Followers](https://img.shields.io/github/followers/Il1Il1IllI1I?style=social)
+## 🎯 Current Learning Goals
 
----
+- Dive deeper into advanced stock backtesting techniques.
+- Explore Python libraries that aid in financial analysis.
+- Contribute to open-source projects related to finance and data science.
 
-## 🌈 소개 
+## 📈 Fun Fact
 
-안녕하세요! 저는 [Il1Il1IllI1I]이고, 현재 [회사 이름]에서 [직무]로 일하고 있습니다. [추가 소개]
+I love experimenting with different stock backtesting strategies to discover what might work best in real-world scenarios.
 
-- 📧 **이메일:** [이메일 주소]
-- 🏠 **웹사이트:** [웹사이트 주소]
-- 📝 **블로그:** [블로그 주소]
+## 📫 How to Reach Me
 
----
-
-## 🚴‍♂️ 경력
-
-### [회사1 이름] - [직무]
-📆 [시작 년월] - [종료 년월] | [위치]
-
-- [업무 및 업적 1]
-- [업무 및 업적 2]
-
-### [회사2 이름] - [직무]
-📆 [시작 년월] - [종료 년월] | [위치]
-
-- [업무 및 업적 1]
-- [업무 및 업적 2]
+- [Email](qwer29382938@gmail.com)
 
 ---
 
-## 🎉 주요 프로젝트 
+⭐️ I believe in continuous learning and I'm always eager to take on new challenges. If you share similar interests or want to collaborate on a project, feel free to reach out!
 
-### 🚀 [프로젝트 이름 1]
-- **설명:** [프로젝트에 대한 짧은 설명]
-- **기간:** [프로젝트 기간]
-- **기술 스택:** [사용된 기술 스택]
-
-### 🚀 [프로젝트 이름 2]
-- **설명:** [프로젝트에 대한 짧은 설명]
-- **기간:** [프로젝트 기간]
-- **기술 스택:** [사용된 기술 스택]
 
 ---
 
-## 📊 GitHub 통계
-![username's GitHub stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
+
+# 👋 안녕하세요!
+
+🌱 2023년 7월부터 데이터 사이언스의 매력에 빠져 이 분야를 공부하기 시작한 학생입니다. 원시 데이터에서 인사이트를 찾아내는 것의 흥미로움에 이끌려, 데이터를 실질적인 지식으로 전환하는 것에 열정을 느끼고 있습니다.
+
+## 🛠 제 도구 상자
+
+- 주 사용 언어: 파이썬 🐍
+- 관심 분야: 주식 백테스팅 📈, 머신 러닝 🤖, 데이터 시각화 📊
+
+## 🎯 현재 학습 목표
+
+- 고급 주식 백테스팅 기법에 대해 더 깊이 있게 학습하기.
+- 금융 분석을 돕는 파이썬 라이브러리 탐구하기.
+- 금융 및 데이터 사이언스 관련 오픈소스 프로젝트에 기여하기.
+
+## 📈 재미있는 사실
+
+실제 시나리오에서 어떤 전략이 가장 잘 작동할지 알아내기 위해 다양한 주식 백테스팅 전략을 실험하는 것을 좋아합니다.
+
+
+## 📫 연락처
+
+- [이메일](qwer29382938@gmail.com)
 
 ---
 
-## 📬 연락처 및 소셜
-- **이메일:** [이메일 주소]
-- **LinkedIn:** [LinkedIn 주소]
-- **블로그:** [블로그 주소]
+⭐️ 지속적인 학습을 중요하게 생각하며, 새로운 도전을 항상 기다리고 있습니다. 비슷한 관심사를 가지고 계시거나 프로젝트에 협력하고 싶으시면 언제든 연락주세요!
